@@ -6,23 +6,23 @@
 	<dict>
 		<key>ios-arm64/QuantumIOS.framework/Info.plist</key>
 		<data>
-		esw4Ns+Rshe3tiHp28MANGfBad0=
+		9N358Xs4Ey6wWs8G82ukNSM9NWQ=
 		</data>
 		<key>ios-arm64/QuantumIOS.framework/QuantumIOS</key>
 		<data>
-		3jBdCH4XBmQJLz8edh3vBUpKCbw=
+		6AUXf5hC3NOuFp2hfOR5o4Jwi28=
 		</data>
 		<key>ios-arm64_x86_64-simulator/QuantumIOS.framework/Info.plist</key>
 		<data>
-		XQvM5et0dBY0BFO2V/CLHjVVVCM=
+		2+xy0RJeqw4XxYOV7IhdnCk2ezc=
 		</data>
 		<key>ios-arm64_x86_64-simulator/QuantumIOS.framework/QuantumIOS</key>
 		<data>
-		9l2LqPSFm+tj7fKYP6ryr4UZ/Do=
+		YHE5Kd5XSWVYocJl85GQE+p2QU4=
 		</data>
 		<key>ios-arm64_x86_64-simulator/QuantumIOS.framework/_CodeSignature/CodeResources</key>
 		<data>
-		KXQtWnDd2vVq9wARsDFyqA+nRjg=
+		OV2IE/+niVhcYSAhengtWo2ti1g=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -31,55 +31,55 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			esw4Ns+Rshe3tiHp28MANGfBad0=
+			9N358Xs4Ey6wWs8G82ukNSM9NWQ=
 			</data>
 			<key>hash2</key>
 			<data>
-			NhaRU5s4W6L53eTeo2nW1TKASpqhACdepldSyKC96SQ=
+			k/QNtRw22k1dtiNglJ3JSDBpYO6XV+kEZeUbEseLXEI=
 			</data>
 		</dict>
 		<key>ios-arm64/QuantumIOS.framework/QuantumIOS</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			3jBdCH4XBmQJLz8edh3vBUpKCbw=
+			6AUXf5hC3NOuFp2hfOR5o4Jwi28=
 			</data>
 			<key>hash2</key>
 			<data>
-			L2okzIxC+3W+3XqydQIjJwKK060u7IGNUsfbg9z8y84=
+			VXey/5KOzRZlvmxW0xEmk0++WDx9z9hts6uIVLxlVk8=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/QuantumIOS.framework/Info.plist</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			XQvM5et0dBY0BFO2V/CLHjVVVCM=
+			2+xy0RJeqw4XxYOV7IhdnCk2ezc=
 			</data>
 			<key>hash2</key>
 			<data>
-			RSjBeAau3ck09XyX9igWvMVNvTQdjMPWSvcEsymrP04=
+			aOrXuX4GsHbtqAAl2sW+cBJ+sVRsugGjy++FLYl+wUM=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/QuantumIOS.framework/QuantumIOS</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			9l2LqPSFm+tj7fKYP6ryr4UZ/Do=
+			YHE5Kd5XSWVYocJl85GQE+p2QU4=
 			</data>
 			<key>hash2</key>
 			<data>
-			vzjV35sIxF30HKJjewLiqrYbtWrHS2EyxMbDiAI3ER8=
+			QZcuGq7YTrUtxJwPWmqeC+/BP9iX4KIyYm4W/heqOkg=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/QuantumIOS.framework/_CodeSignature/CodeResources</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			KXQtWnDd2vVq9wARsDFyqA+nRjg=
+			OV2IE/+niVhcYSAhengtWo2ti1g=
 			</data>
 			<key>hash2</key>
 			<data>
-			h2zRkqKCttcWqpCQf/I6CoJJgg9Fg0DuphOIxPnpk/o=
+			UfdGo2sZbq1hRv1qTWZfMGuW6w0P5BlOGdGDSVbNqkY=
 			</data>
 		</dict>
 	</dict>

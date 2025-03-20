@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
     s.name         = "QuantumIOS"
-    s.version      = "3.9.19"
+    s.version      = "3.9.20"
     s.summary      = "iOS SDK for using Quantum"
     s.homepage     = "https://docs.atomicfi.com/reference/transact-sdk#libraries__swift"
     s.license = { :type => 'Copyright', :text => '© Copyright 2024 Atomic FI Inc.'}

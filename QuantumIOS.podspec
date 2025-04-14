@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
     s.name         = "QuantumIOS"
-    s.version      = "3.14.0"
+    s.version      = "3.15.0"
     s.summary      = "iOS SDK for using Quantum"
     s.homepage     = "https://docs.atomicfi.com/reference/transact-sdk#libraries__swift"
     s.license = { :type => 'Copyright', :text => '© Copyright 2024 Atomic FI Inc.'}
@@ -14,11 +14,17 @@ Pod::Spec.new do |s|
     s.subspec 'QuantumIOS' do |ss|
         ss.vendored_frameworks = "artifacts/QuantumIOS.xcframework"
         ss.dependency "QuantumIOS/MuppetIOS"
+        ss.dependency "QuantumIOS/QuantumSessionIOS"
         ss.ios.deployment_target = '13.0'
     end
 
     s.subspec 'MuppetIOS' do |ss|
         ss.vendored_frameworks = "artifacts/MuppetIOS.xcframework"
+        ss.ios.deployment_target = '13.0'
+    end
+
+    s.subspec 'QuantumSessionIOS' do |ss|
+        ss.vendored_frameworks = "artifacts/QuantumSessionIOS.xcframework"
         ss.ios.deployment_target = '13.0'
     end
 end
